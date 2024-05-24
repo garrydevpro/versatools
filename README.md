@@ -47,12 +47,6 @@ Finally, run the program:
 python src/main.py
 ```
 
-To convert the program to an executable, run:
-
-```bash
-pyinstaller --onefile --add-data '.venv/Lib/site-packages/tls_client/dependencies/tls-client-64.dll;tls_client/dependencies' --icon=icon.ico --name=Versatools src/main.py
-```
-
 To run unit tests:
 
 ```bash
