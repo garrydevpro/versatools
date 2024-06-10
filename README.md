@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://discord.gg/3uRnMJTFnU"><img src="icon.ico" alt="Versatools" height="90" /></a>
+	<a href="https://garry.lol/versatools/discord"><img src="icon.ico" alt="Versatools" height="90" /></a>
 </p>
 
 <h4 align="center">VERSATOOLS - FREE MULTITOOL | BOT FOLLOWERS/GROUP JOINS & MORE</h4>
@@ -15,7 +15,7 @@
 </p>
 <br/>
 
-> <h4>Our Discord server was banned. Here's the new one: <a href="https://garry.lol/versatools/discord">https://discord.com/invite/JFeuwfz8gx</a></h4>
+> <h4>Our Discord server was banned. Here's the new one: <a href="https://garry.lol/versatools/discord">https://garry.lol/versatools/discord</a></h4>
 
 ## Screenshot
 
@@ -45,12 +45,6 @@ Finally, run the program:
 
 ```bash
 python src/main.py
-```
-
-To convert the program to an executable, run:
-
-```bash
-pyinstaller --onefile --add-data '.venv/Lib/site-packages/tls_client/dependencies/tls-client-64.dll;tls_client/dependencies' --icon=icon.ico --name=Versatools src/main.py
 ```
 
 To run unit tests:
